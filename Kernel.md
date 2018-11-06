@@ -10,8 +10,8 @@ On a Ubuntu 18.04 system:
 This generates arch/arm64/boot/Image.gz which we will use later.
 
 ## FIT Image generation
-The board expects the kernel to be packed with the device tree into a FIT image which is described in
-assets/mycroft-mk2.its
+The board expects the kernel to be packed with the device tree into a FIT image
+which is described in assets/mycroft-mk2.its
 
 NOTE: Make sure the file names are exact. Folder paths are irrelevant though.
 
